@@ -1,0 +1,27 @@
+﻿
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'쿨펫동물병원','대전','042-223-2233','대전광역시 서구 둔산중로 1','0900','2200');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'닥터리동물병원','대전','042-274-0365','대전광역시 동구 가오동 644 제이타워','0900','2200');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'그레이동물병원','대전','042-719-8275','대전광역시 유성구 노은로 166 계룡프라자','0900','2400');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'웰케어동물병원','대전','042-544-2745','대전광역시 서구 관저북로13번길 23-12','0900','2400');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'스누피동물병원 ','대전','042-486-8878','대전광역시 서구 문정로 208 ','0900','2300');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'늘푸른동물병원','천안','041-579-7582','충청남도 천안시 서북구 쌍용대로 317','0800','2300');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'나우동물의료센터','천안','041-555-2575','충청남도 천안시 서북구 동서대로7 이현빌딩','0900','2300');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'천안동물의료센터','천안','041-575-5000','충청남도 천안시 서북구 충무로 190 카맨샵','1000','2300');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'펫프렌즈동물병원','천안','041-568-7533','충청남도 천안시 서북구 두정로 203','1000','2300');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'펫가든','천안','041-556-0075','충청남도 천안시 서북구 성정두정로 1 롯데마트 성정점 ','0900','2200');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'열린동물병원','천안','041-564-0075','충청남도 천안시 동남구 신부동 388-2','1000','2300');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'청담우리동물병원','서울','02-541-7515','서울특별시 강남구 삼성로 614','0900','2100');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'예은동물병원','서울','02-529-5575','서울특별시 강남구 도곡로 189 정금빌딩 ','0900','2100');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'라온펫동물의료센터','서울','02-555-2272','서울특별시 강남구 우성아파트11동 11','0800','2200');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'스마트 동물병원','서울','02-554-7582','서울특별시 강남구 선릉로 418','0800','2300');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'드림동물병원','서울','02-508-7583','서울특별시 강남구 역삼로 234 뉴튼플라자','0900','2100');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'봄동물병원','서울','1644-9416','서울특별시 강남구 도곡로 115 거암빌딩','0900','2400');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'개포별빛동물병원 ','서울','02-573-7582','서울특별시 강남구 논현로 70 동성빌딩','0900','2100');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'래이동물의료센터','서울','02-556-7588','서울특별시 강남구 남부순환로 2911-1','0900','2200');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'이리온동물병원','서울','02-1577-6125','서울특별시 강남구 도산대로 445 M빌딩','0800','2200');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'그레이스동물병원','서울','02-3442-5554','서울특별시 강남구 학동로6길 18','0800','2300');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'청라루비동물병원','인천','032-568-0922','인천광역시 서구 청라루비로134번길 6-4','0800','2300');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'24시독스동물병원','인천','032-433-0075','인천광역시 남동구 남동대로 912 유진빌딩','0800','2400');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'정서동물병원','인천','032-422-5399','인천광역시 남동구 주안로 234','0900','2000');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'24시소래동물병원','인천','032-438-3227','인천광역시 남동구 소래역남로16번길 8-7','0900','2100');
+INSERT INTO 동물병원 VALUES (hospital_seq.nextval,'청라라임동물병원','인천','032-563-1900','인천광역시 서구 청라라임로 102','1000','2200');

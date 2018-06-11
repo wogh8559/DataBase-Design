@@ -1,0 +1,27 @@
+﻿
+DROP TABLE 등록하다;
+DROP TABLE 수강하다;
+DROP TABLE 개설하다;
+DROP TABLE 담당하다;
+DROP TABLE 교육코스;
+DROP TABLE 반려동물병력사항;
+DROP TABLE 반려동물;
+DROP TABLE 이용내역;
+DROP TABLE 보호자;
+DROP TABLE 셔틀버스시간;
+DROP TABLE 셔틀버스;
+DROP TABLE 관리하다;
+DROP TABLE 내부시설;
+DROP TABLE 직원;
+DROP TABLE 교사자격증;
+DROP TABLE 교사;
+DROP TABLE 유치원;
+DROP TABLE 동물병원;
+DROP SEQUENCE kind_seq;
+DROP SEQUENCE pet_seq;
+DROP SEQUENCE fac_seq;
+DROP SEQUENCE teacher_seq;
+DROP SEQUENCE course_seq;
+DROP SEQUENCE hospital_seq;
+DROP SEQUENCE staff_seq;
+DROP SEQUENCE bus_seq;

@@ -1,0 +1,3 @@
+﻿
+DROP INDEX breed_IDX;
+DROP INDEX type_IDX;
